@@ -8,6 +8,7 @@ This is a dashboard portal frontend in Next.js backend in Node.js, for different
 
 - #### Arcsight Dashboard
   ![Dashborad SOC Arcsight](/frontend/public/dashboard-soc-arcsight.jpg)
+  ![Dashborad SOC HPSM](/frontend/public/dashboard-soc-hpsm.jpg)
 
 ## Technology Stacks:
 
